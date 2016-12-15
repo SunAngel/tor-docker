@@ -27,5 +27,3 @@ I would recommend you use host directory mapping of named volume to run containe
 ## License
 
 This Dockerfile and scripts are released under [MIT License](https://github.com/SunAngel/tor-docker/blob/master/LICENSE).
-
-0
