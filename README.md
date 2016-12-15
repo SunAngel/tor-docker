@@ -4,7 +4,7 @@ This is very simple image which you can configure to make hidden services or get
 
 ## Supported tags and respective `Dockerfile` links
 
-* [`latest`](https://github.com/SunAngel/tor-docker/blob/master/docker/Dockerfile) - Latest avaliable version.
+* [`latest`](https://github.com/VGoshev/tor-docker/blob/master/docker/Dockerfile) - Latest available version.
 
 ## Quickstart
 
@@ -26,4 +26,4 @@ I would recommend you use host directory mapping of named volume to run containe
 
 ## License
 
-This Dockerfile and scripts are released under [MIT License](https://github.com/SunAngel/tor-docker/blob/master/LICENSE).
+This Dockerfile and scripts are released under [MIT License](https://github.com/VGoshev/tor-docker/blob/master/LICENSE).
