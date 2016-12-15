@@ -15,7 +15,7 @@ docker run \
   -d sunx/tor
 ```
 
-After first run container will create default configuration files for Tor (nmed `torrc`), which you, probably, will want to edit manually. For more info about Tor you could read [Tor documentation](https://www.torproject.org/docs/documentation.html.en).
+After first run container will create default configuration files for Tor (named `torrc`), which you, probably, will want to edit manually. For more info about Tor you could read [Tor documentation](https://www.torproject.org/docs/documentation.html.en).
 
 ## Detailed description of image and containers
 
