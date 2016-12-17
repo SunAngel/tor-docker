@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y tor && \
 COPY docker-run-root.sh /bin/docker-run-root
 COPY torrc /var/tmp/torrc
 
-VOLUME /etc/openvpn
+VOLUME /var/lib/tor
 
 # Container will run some preparations with root access (fixing permissions, for example)
 #   and then execute /bin/docker-run with user access to configure (if needed) and run
