@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stretch
 MAINTAINER Vladimir Goshev <sunx@sunx.name>
 
 RUN apt-get update && apt-get install -y tor && \
